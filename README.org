@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum-postmodern.git   |
-| commit  | {"messa  |
+| commit  | cda2826  |
 | systems | vellum-postmodern |
 |---------+-------------------------------------------|
 
