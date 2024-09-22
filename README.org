@@ -2,6 +2,6 @@
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum-postmodern.git |
-| commit  | c3f0edf                                                   |
+| commit  | 610d973                                                   |
 | systems | vellum-postmodern                                         |
 |---------+-----------------------------------------------------------|
